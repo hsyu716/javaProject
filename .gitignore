@@ -1,0 +1,14 @@
+# ========== Node / Frontend ==========
+frontend/node_modules/
+
+# ========== Java / Maven ==========
+target/
+*.class
+*.log
+
+# ========== IDE / OS ==========
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
